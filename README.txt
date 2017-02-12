@@ -1,0 +1,1 @@
+Generic Arduino implementation of an EEPROM I2C interface.

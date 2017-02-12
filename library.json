@@ -1,0 +1,16 @@
+{
+  "name": "MemoryI2C",
+  "keywords": "memory, eeprom, i2c",
+  "description": "Generic Arduino implementation of an EEPROM I2C interface",
+
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/henrik1235/MemoryI2C.git"
+  },
+  "dependencies":
+  {
+    "frameworks": "arduino"
+  },
+  "frameworks": "arduino"
+}
